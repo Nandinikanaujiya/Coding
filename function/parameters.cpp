@@ -5,7 +5,7 @@ int sum(int a,int b){
     return s;
 }
 int main(){
-    cout<<sum(10,5);
+    cout<<sum(10,5)<<endl;  
 
     return 0;
 }
